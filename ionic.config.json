@@ -1,0 +1,7 @@
+{
+  "name": "clase2-06-if-productos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
